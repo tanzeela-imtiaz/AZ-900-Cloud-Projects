@@ -9,7 +9,7 @@ Hello! 👋 I'm **Tanzeela Imtiaz**, a Law student exploring the world of **Clou
 ## 🔹 About Me
 - 📚 Studying Law
 - ☁️ Learning Cloud Computing (AZ-900 Certified)
-- 💻 Skills: Microsoft Azure, Git & GitHub, Virtual Machines, Web App Deployment
+- 💻 Skills: Microsoft Azure, Virtual Machines, Web App Deployment, nginx servers deployment,sql databases, Aks,Azure virtual desktop.
 
 ---
 
